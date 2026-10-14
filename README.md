@@ -1,2 +1,0 @@
-# arun
-Belt calculator
